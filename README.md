@@ -1,6 +1,5 @@
-# random
+# Random
 Book, Course, and Learning Practices.
 
-Test to see if Im connected correctly.
-
-I'm connected correctly! God that was a headache.
+This folder will be for my active learning.  
+Tutorials I'm following, tests I'm doing, practice code from the books I'm reading and things of that nature.
